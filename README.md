@@ -6,7 +6,7 @@
 |-----------------------|-----------------|
 | Tulepbergen Anel      | 22B030602       |
 | Kemel Merey           | 22B0            |
-| Turlykozha Azamat     | 22B0            |
+| Turlykozha Dinara     | 22B0            |
 
 ## Project Description
 CookItUp is a web application designed to enhance your culinary experience online. It provides users with a comprehensive platform for discovering, cooking, and sharing recipes from around the world. Also, CookItUp offers an administrative interface for managing the system, content, and users.
