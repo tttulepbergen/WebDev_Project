@@ -1,7 +1,8 @@
 # Cooking recipes website
 
-Project members:
+Project name:
 
-алоувшмагпцир
+
+Project members:
 
 Tulepbergen Anel, Turlykozha Dinara, Kemel Merey 
