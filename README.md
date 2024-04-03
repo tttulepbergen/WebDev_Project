@@ -2,4 +2,6 @@
 
 Project members:
 
+алоувшмагпцир
+
 Tulepbergen Anel, Turlykozha Dinara, Kemel Merey 
