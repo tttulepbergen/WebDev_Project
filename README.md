@@ -1,5 +1,3 @@
-# Cooking recipes website
-
 ## Team members
 
 | Student name          | Student ID      |
