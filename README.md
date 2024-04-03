@@ -1,4 +1,4 @@
-# WebDev_Project
+# Cooking recipes website
 
 Project members:
 
