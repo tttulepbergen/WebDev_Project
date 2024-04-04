@@ -5,7 +5,7 @@
 | Student name          | Student ID      |
 |-----------------------|-----------------|
 | Tulepbergen Anel      | 22B030602       |
-| Kemel Merey           | 22B0            |
+| Kemel Merey           | 22B030615       |
 | Turlykozha Dinara     | 22B030805       |
 
 ## Project Description
