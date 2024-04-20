@@ -22,3 +22,4 @@ CookItUp is a web application designed to enhance your culinary experience onlin
 - **Backend**: Django is used for processing requests, managing data, and implementing business logic.
 
 
+#changes
